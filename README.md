@@ -232,17 +232,6 @@ npm start
 
 ## **📌 7. How to Deploy**
 
-### Backend (FastAPI)
-
-Deploy on **Render, Railway, or Heroku**:
-
-1. Push your backend code to GitHub.
-2. Deploy using Render or Railway.
-
-### Frontend (React)
-
-Deploy using **Netlify or Vercel**:
-
 ```sh
 npm run build
 ```
